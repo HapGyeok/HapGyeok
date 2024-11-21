@@ -1,4 +1,4 @@
-## Hi there 👋
+## 팀 개발을 위한 Git GitHub 시작하기 개정판 👋
 
 <!--
 **HapGyeok/HapGyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
